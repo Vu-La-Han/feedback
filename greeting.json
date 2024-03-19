@@ -1,6 +1,8 @@
-Greeting = [
+{
+  "Greeting": [
     "Hãy phản hồi về điều cần cải tiến cho tôi, liên hệ Telegram @ktvcau",
     "Chúc bạn gặp nhiều may mắn trong ngày!!",
     "Vẫn đang trong quá trình phát triển !",
     "Bạn đang sử dụng công của XIE."
-]
+  ]
+}
